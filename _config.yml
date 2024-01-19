@@ -19,11 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: AstroMythica
-email: your-email@example.com
+email: astromythicagithub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AstroMythica captures the saga of humanity's progress amidst the vast, enigmatic cosmos.
+  Embark on an interstellar journey through the uncharted realms of space and fantasy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: just-the-docs/just-the-docs # for github-metadata
