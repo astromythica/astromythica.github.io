@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Cosmocetus Gigantus
-parent: Creatures
-permalink: docs/creatures/cosmocetus_gigantus/
+parent: Fauna
+grand_parent: Biology
+permalink: archive/biology/fauna/cosmocetus_gigantus/
 ---
 
 # Cosmocetus Gigantus
