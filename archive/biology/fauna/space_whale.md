@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Cosmocetus Gigantus
+title: Space Whale
 parent: Fauna
 grand_parent: Biology
-permalink: archive/biology/fauna/cosmocetus_gigantus/
+permalink: archive/biology/fauna/space_whale/
 ---
 
-# Cosmocetus Gigantus
+# Space Whale (Cosmocetus Gigantus)
 {: .no_toc }
 
 ## Table of contents
@@ -18,7 +18,7 @@ permalink: archive/biology/fauna/cosmocetus_gigantus/
 ---
 
 ## Introduction/Overview
-Cosmocetus gigantus, referred to in common parlance as the Space Whale, represents a recently discovered extraterrestrial species, first identified in 2024 by the deep-space observation satellite "Celestial Voyager". These organisms exhibit a morphology strikingly similar to Earth's cetaceans, specifically whales, but uniquely adapted to the vacuum of space. Their discovery has prompted a significant reevaluation of astrobiological principles and the potential diversity of life in the cosmos.
+Cosmocetus gigantus, referred to in common parlance as the Space Whale, represents a recently discovered extraterrestrial species, first identified in 2034 by the deep-space observation satellite "Celestial Voyager". These organisms exhibit a morphology strikingly similar to Earth's cetaceans, specifically whales, but uniquely adapted to the vacuum of space. Their discovery has prompted a significant reevaluation of astrobiological principles and the potential diversity of life in the cosmos.
 
 The anatomy of Cosmocetus gigantus allows for locomotion in the absence of atmospheric or aqueous medium, a feature unprecedented in Earth's biological records. Observational data suggest that these entities frequent regions of high stellar density, such as nebulae and star clusters, indicating possible unique methods of energy acquisition and material consumption.
 
