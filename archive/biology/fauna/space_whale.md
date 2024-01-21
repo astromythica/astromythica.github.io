@@ -3,7 +3,7 @@ layout: default
 title: Space Whale
 parent: Fauna
 grand_parent: Biology
-permalink: archive/biology/fauna/space_whale/
+permalink: archive/biology/fauna/space-whale/
 ---
 
 # Space Whale (Cosmocetus Gigantus)

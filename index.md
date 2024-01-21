@@ -11,7 +11,7 @@ AstroMythica is your atlas to the cosmic unknown, charting the course of human e
 
 ---
 
-- Biology
+- [Biology]
     - [Fauna]
     - Flora
     - Ecosystems
@@ -19,10 +19,15 @@ AstroMythica is your atlas to the cosmic unknown, charting the course of human e
 - Events
 - Technology
 - Phenomena
+    - Interstellar Phenomena
 - History
 - Culture & Society
 - Engineering
-- Geography
+- Astrography
+    - Stellar and Solar Systems
+    - Celestial Bodies
+    - Astrogeography
+    - Galactic Formations
 - New Developments
 
 [Biology]: {% link archive/biology/biology.md %}
