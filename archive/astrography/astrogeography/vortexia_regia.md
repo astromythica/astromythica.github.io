@@ -3,7 +3,7 @@ layout: default
 title: Vortexia Regia
 parent: Astrogeography
 grand_parent: Astrography
-permalink: archive/astrography/astrogeography/vortexia_regia/
+permalink: archive/astrography/astrogeography/vortexia-regia/
 ---
 
 # Vortexia Regia

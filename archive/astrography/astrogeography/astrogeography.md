@@ -2,7 +2,7 @@
 layout: default
 title: Astrogeography
 parent: Astrography
-nav_order: 3
+nav_order: 1
 has_children: true
 permalink: archive/astrography/astrogeography
 no_back_to_top: true

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biology
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: archive/biology
 no_back_to_top: true
